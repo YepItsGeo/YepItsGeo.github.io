@@ -8,7 +8,7 @@ Here is some basic text
 * Item3
 
 Basic demo image
-![This is an alt text.](/image/sample.webp "This is a sample image.")
+![This is an alt text.](/jonah_graduation_3.jpg "This is a sample image.")
 
 Basic Link Example
 You may be using [Markdown Live Preview](/Resume.pdf).
