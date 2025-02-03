@@ -1,6 +1,4 @@
-# YepItsGeo.github.io
-
-## Heading h2
+# Heading h1
 
 Here is some basic text
 * Item 1
