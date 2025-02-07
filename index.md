@@ -6,7 +6,7 @@ Here is some basic text
 * Item3
 
 Basic demo image
-(/Jonah.jpg "Jonah Peterson.")
+![Photo](/Jonah.jpg "Jonah Peterson.")
 
 Basic Link Example
 You may be using [Markdown Live Preview](/Resume.pdf).
